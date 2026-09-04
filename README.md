@@ -1,9 +1,25 @@
-# Conveynience
+# QuickNotes
 
-Resumo: O app ou site seria baseado em transporte, imediato(como o uber) ou contratual. 
+Visão Geral: O QuickNotes é uma plataforma desenvolvida para transformar a simplicidade do bloco de notas tradicional em uma ferramenta de organização pessoal e profissional eficiente e acessível.
 
-Motivos: Um uber ou 99 varia de preço todo dia de acordo com várias circunstancias, distância da viagem, lugar de embarque, demanda, etc, fazendo com que pedir um todo dia seja uma forma de transporte inconsistente, tanto pela variação de preço quanto pelo tempo de espera, o qual depende da sorte de algum motorista estar perto do usuário. Nesse aplicativo, além de ter a opção do transporte instantâneo, vc poderia fazer contratos anuais ou mensais com motoristas, parecido com um transporte escolar, facilitando o encaixe do transporte no dia a dia do usuário, tirando variáveis como preço e tempo de espera.
+Motivos: A maioria dos aplicativos de notas nativos se destaca pela praticidade, mas peca pela escassez de recursos. O QuickNotes vem pra mudar isso: oferecer uma experiência leve e intuitiva, agregando funcionalidades modernas que facilitam a rotina sem poluir a interface do usuário.
 
-Funcionalidades: Log-in tanto como usuário quanto motorista, transporte imediato de carro e moto como o uber e transporte contratual
+Principais Funcionalidades
 
-Como funcionaria o transporte contratual?: Existiria uma aba de ofertas e procura, onde os próprios motoristas poderiam fazer ofertas como: Transporte UFS, 400 ao mês, passo por rota X, fidelidade de um período(6 meses), vagas em tal horário e o usuário poderia procurar algum motorista que faz o trajeto que ele procura. no caso de não ter nenhum que faça o trajeto, o usuário poderia fazer uma oferta dizendo o próprio trajeto diário e esperar algum motorista aceitar ou negociar uma oferta 
+Gestão de Conteúdo:
+
+  -Editor de notas completo: Suporte para texto e inserção direta de imagens.
+
+  -Fixação de notas: Destaque para informações prioritárias no topo da tela.
+
+Organização e Busca:
+
+  -Sistema de tags: Categorização personalizada para agrupar notas por temas (ex.: Trabalho, Estudos, Pessoal).
+
+  -Busca avançada: Localização rápida de arquivos por título ou por palavras-chave dentro do próprio texto da nota.
+
+Produtividade e Segurança:
+
+  -Lembretes e Agendamentos: Notificações programadas para tarefas com prazos.
+
+  -Proteção de privacidade: Bloqueio e criptografia de notas confidenciais com senha.
